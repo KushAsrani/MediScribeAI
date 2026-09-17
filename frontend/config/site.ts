@@ -15,9 +15,9 @@ export const siteConfig = {
   ],
   links: {
     transcribe: "/Transcribe",
-    twitter: "https://github.com/KushAsrani/MedicAI",
+    twitter: "",
     linkedin: "www.linkedin.com/in/kushasrani-179392370",
-    github: "https://github.com/KushAsrani/MedicAI",
-    docs: "https://github.com/KushAsrani/MedicAI",
+    github: "https://github.com/KushAsrani/MediScribeAI",
+    docs: "https://github.com/KushAsrani/MediScribeAI",
   },
 }
