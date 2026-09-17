@@ -1,6 +1,6 @@
-# MediScribe.AI
+# MediScribeAI
 
-MediScribe.AI is a medical appointment assistant designed to help patients better understand and act on what happens during a visit. The system records and transcribes patient–physician conversations, extracts key information, and presents a clear summary with follow-up recommendations and next steps.
+MediScribeAI is a medical appointment assistant designed to help patients better understand and act on what happens during a visit. The system records and transcribes patient–physician conversations, extracts key information, and presents a clear summary with follow-up recommendations and next steps.
 
 ## Overview
 
